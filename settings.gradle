@@ -1,0 +1,6 @@
+rootProject.name = 'spring-analysis'
+include 'spring-ioc'
+include 'spring-aop'
+include 'spring-mvc'
+include 'lifecycle'
+
