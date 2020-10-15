@@ -4,4 +4,5 @@ include 'spring-aop'
 include 'spring-mvc'
 include 'lifecycle'
 include 'spring-ioc-factory-bean'
+include 'extension'
 
